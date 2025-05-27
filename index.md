@@ -6,3 +6,4 @@
 $ git init
 
 var myVar = "Hello, world!";
+print var
